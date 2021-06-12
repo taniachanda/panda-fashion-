@@ -1,0 +1,24 @@
+
+   section{ margin-top: 100px;}
+   .first-sec {
+    background-color: #ffe0e5d1;
+    border-radius: 10px;
+   
+}
+p img{height: 110px;}
+.p-hat{border-radius: 12px;}
+.p-box{border: none;
+border-radius: 10px;}
+.p-footer{border: none;
+    background: white};
+
+section#form {
+    border-radius: 10px;
+}
+div ul li{
+    font-size: 23px;
+    font-weight: 500;
+}
+div ul{
+  justify-content: flex-end !important;
+}

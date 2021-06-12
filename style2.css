@@ -1,0 +1,46 @@
+section{margin-top: 100px;}
+
+section#error {
+    background-color: #ffb6c152;
+    border-radius: 12px;
+}
+button.btn.btn-warning {
+    background-color: #6fa923c4;
+    color: white;
+    margin-bottom: 13px;
+    margin-top: 0px;
+    border: none;
+    border-radius: 7px;
+}
+.card.shadow {
+    border: none;
+    border-radius: 8px;
+}
+.dbox{padding: 0px 40px;
+    border-radius: 10px;    
+}
+.dboxx{padding: 0px 50px;
+    border-radius: 10px; }
+    section#subscribe {
+        background-color: lightseagreen;
+        height: 350px;
+        border-radius: 12px;
+    }
+    button {
+        display: block;
+        background-color: darkorange;
+        border: none;
+        border-radius: 7px;
+        padding: 5px 29px;
+        margin-top: 6px;
+        color: white;
+    }
+    input {
+        width: 294px;
+        border: none;
+        border-radius: 5px;
+    }
+    div ul li{
+        font-size: 30px;
+        font-weight: 400;
+    }
